@@ -22,7 +22,7 @@ On VPS systems where the user is root run the script without the RVM option.
 The script will install on OSX the following components:
 
 * Homebrew
-* Ruby 1.9.3
+* Ruby 2.2.0
 * PostgresSQL
 * Nmap
 * Metasploit Framework
